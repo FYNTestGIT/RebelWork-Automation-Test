@@ -1,0 +1,26 @@
+{
+	"info": {
+		"_postman_id": "b14a471b-d193-4b66-8246-9ff4cfa2ae38",
+		"name": "RebelWorks",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "9980580"
+	},
+	"item": [
+		{
+			"name": "Inquiry Data",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "Add Data",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		}
+	]
+}
